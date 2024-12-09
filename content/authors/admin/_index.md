@@ -68,7 +68,7 @@ education:
     date_start: 2019-09-01
     date_end: 2023-5-31
     summary: |
-    #  GPA: 3.8/4.0
+      GPA: 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
