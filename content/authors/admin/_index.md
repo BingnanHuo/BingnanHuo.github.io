@@ -57,7 +57,7 @@ education:
   - area: Sc.M. Data Science
     institution: Data Science
     date_start: 2023-09-01
-    date_end: 2025-5-31
+    date_end: 2025-05-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -66,7 +66,7 @@ education:
   - area: B.S. Statistics
     institution: Bucknell University
     date_start: 2019-09-01
-    date_end: 2023-5-31
+    date_end: 2023-05-31
     summary: |
       GPA: 
 
