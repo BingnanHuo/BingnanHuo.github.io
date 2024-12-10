@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: Sc.M. Data Science
-    institution: Data Science
+    institution: Brown University
     date_start: 2023-09-01
     date_end: 2025-05-31
     summary: |
