@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Bingnan Huo's Website"
+date: 2024-12-11
 type: landing
 
 design:
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a masters student at Brown University, working with Prof. George Konidaris in the Intelligent Robot Lab. I blog about machine learning, deep learning, and moonshots.
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         

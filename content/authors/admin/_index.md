@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 霍秉楠
+title: Bingnan Huo
 
 # Name pronunciation (optional)
-name_pronunciation: Bingnan Huo
+name_pronunciation: 霍秉楠
 
 # Full name (for SEO)
 first_name: Bingnan
