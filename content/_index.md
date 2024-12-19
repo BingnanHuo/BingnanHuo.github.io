@@ -35,8 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm interested in the intersection of artificial intelligence, reinforcement learning, robotics, psychology, and sociology. I'm currently a Master's student in Data Science at Brown University. I'm also a research assistant at the [Human-Computer Interaction Lab](https://www.brown.edu/research/labs/hci/) and the [Data Science Initiative](https://www.brown.edu/initiatives/data-science/). I'm advised by [Dr. Jeff Huang](https://www.brown.edu/research/labs/hci/people/jeff-huang) and [Dr. Seny Kamara](https://www.brown.edu/initiatives/data-science/people/seny-kamara). I'm also a member of the [Brown Robotics Lab](https://www.brown.edu/research/labs/robotics/). I'm passionate about building intelligent systems that can understand and interact with humans in a natural and intuitive way. I'm also interested in the ethical and societal implications of AI and robotics. I'm always looking for new opportunities to collaborate with researchers and practitioners from diverse backgrounds.
-        
+        Hi! I am Bingnan Huo (霍秉楠), a masters student at Brown University. 
+        I am a part of the [Intelligent Robotics Lab](http://irl.cs.brown.edu/), led by [Prof. George Konidaris](https://cs.brown.edu/people/gdk/), which conducts research on reinforcement learning, planning, and robotics.
+        I am interested in building AI systems that learn and solve complex tasks in the real world, with reinforcement learning and robotics
+        My research interests include artificla intelligence, reinforcement learning, and robotics.  I am passionate about using technology to solve real-world problems and improve people's lives.
+                
         Please reach out to collaborate 😃
     design:
       columns: '1'

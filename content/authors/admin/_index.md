@@ -178,4 +178,4 @@ awards:
 Hi! I am Bingnan Huo (霍秉楠), a masters student at Brown University. 
 I am a part of the [Intelligent Robotics Lab](http://irl.cs.brown.edu/), led by [Prof. George Konidaris](https://cs.brown.edu/people/gdk/), which conducts research on reinforcement learning, planning, and robotics.
 I am interested in building AI systems that learn and solve complex tasks in the real world, with reinforcement learning and robotics
-My research interests include artificla intelligence, reinforcement learning, and robotics.  Bingnan is passionate about using reinforcement learning to solve real-world problems and improve people's lives.
+My research interests include artificla intelligence, reinforcement learning, and robotics.  I am passionate about using technology to solve real-world problems and improve people's lives.
