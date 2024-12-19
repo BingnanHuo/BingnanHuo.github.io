@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/cv.pdf
     design:
       css_class: dark
       background:
@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a masters student at Brown University, working with Prof. George Konidaris in the Intelligent Robot Lab. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm interested in the intersection of artificial intelligence, reinforcement learning, robotics, psychology, and sociology. I'm currently a Master's student in Data Science at Brown University. I'm also a research assistant at the [Human-Computer Interaction Lab](https://www.brown.edu/research/labs/hci/) and the [Data Science Initiative](https://www.brown.edu/initiatives/data-science/). I'm advised by [Dr. Jeff Huang](https://www.brown.edu/research/labs/hci/people/jeff-huang) and [Dr. Seny Kamara](https://www.brown.edu/initiatives/data-science/people/seny-kamara). I'm also a member of the [Brown Robotics Lab](https://www.brown.edu/research/labs/robotics/). I'm passionate about building intelligent systems that can understand and interact with humans in a natural and intuitive way. I'm also interested in the ethical and societal implications of AI and robotics. I'm always looking for new opportunities to collaborate with researchers and practitioners from diverse backgrounds.
         
         Please reach out to collaborate 😃
     design:
@@ -63,16 +61,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    view: article-grid
+  #    columns: 1
   - block: collection
     id: news
     content:
