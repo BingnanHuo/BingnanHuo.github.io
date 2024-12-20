@@ -5,10 +5,10 @@ authors:
 - Keith Buffinton
 - Joshua Stough
 - Arun K Gadre
-date: "2022-07-026"
+date: 2022-07-26
 doi: ""
 
-publishDate: "2022-07-26"
+publishDate: 2022-07-26
 
 publication_types: ["1"]
 

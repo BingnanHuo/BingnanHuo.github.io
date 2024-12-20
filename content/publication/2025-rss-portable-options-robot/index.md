@@ -8,10 +8,10 @@ authors:
 - Yuechuan Yang
 - Akhil Bagaria
 - George Konidaris
-date: "2025-01-24"
+date: 2025-01-24
 doi: ""
 
-publishDate: "2025-01-24"
+publishDate: 2025-01-24
 
 publication_types: ["1"]
 
