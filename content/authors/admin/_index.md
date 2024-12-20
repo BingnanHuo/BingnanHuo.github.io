@@ -149,18 +149,18 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: First Place, Best Poster
-    date: '2022'
+    date: 2022-07-26
     awarder: Susquehanna Valley Undergraduate Research Symposium
     summary: |
       Awarded for the research poster on "Facial Nerve Paralysis Severity Grading by Computer Vision and Machine Learning"
   - title: Pi Mu Epsilon Member
     url: https://pme-math.org/
-    date: '2022'
+    date: 2023-04-15
     awarder: National Honorary Mathematics Society
     summary: |
       Inducted into Pi Mu Epsilon National Honorary Mathematics Society for excellence in mathematics
   - title: Dean's List
-    date: '2019-2023'
+    date: 2023-05-30
     awarder: Bucknell University
     summary: |
       Consistently maintained academic excellence throughout undergraduate studies
