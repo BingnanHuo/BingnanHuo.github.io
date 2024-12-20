@@ -1,11 +1,11 @@
 ---
 title: "Learning Transferable Sub-goals by Hypothesizing Generalizing Features"
 authors:
-- Andre De Mello Koch
-- Ankit Bagaria
+- Anita De Mello Koch
+- Akhil Bagaria
 - Bingnan Huo
-- Caleb Allen
-- Zhiwei Zhou
+- Cameron Allen
+- Zhiyuan Zhou
 - George Konidaris
 date: 2024-10-01
 doi: ""
