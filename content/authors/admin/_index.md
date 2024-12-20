@@ -25,7 +25,7 @@ role: Masters Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Brown University
-    #url: https://brown.edu/
+    url: https://brown.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -59,7 +59,8 @@ education:
     date_start: 2023-09-01
     date_end: 2025-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Research focus areas include Reinforcement Learning and Robotics.
+      Coursework includes Deep Learning, Reinforcement Learning, Data Engineering, and Computational Probability.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -68,36 +69,35 @@ education:
     date_start: 2019-09-01
     date_end: 2023-05-31
     summary: |
-      GPA: 
+      Independent research on Medical Image Processing using Computer Vision and Machine Learning.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advanced statistics, math, and linear algebra courses.
+      - Computer science courses in data structures & algorithms, software engineering, and image processing.
+      - Social sciences courses in psychology and sociology.
 
+# Work Experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Strategic Product Manager Intern
+    company_name: Baidu, Inc.
+    company_url: https://www.baidu.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-06-01
+    date_end: 2023-08-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Analyzed competitors’ content recommendation strategies and authored product requirement documents and feature specifications.
+      - Conducted A/B testing to improve the content recommendation strategy of the Baidu Mobile APP.
+  - position: Strategy and Planning Analyst Intern
+    company_name: Baidu, Inc.
+    company_url: https://www.baidu.com/
+    company_logo: ''
+    date_start: 2021-06-01
+    date_end: 2021-08-31
+    summary: |
+      - Conducted market competitive analyses, synthesized industry research reports, and analyzed competitor financial reports.
+      - Presented actionable strategy recommendations backed with data-driven insights and visualizations to the leadership team.
+      - Designed surveys and conducted domain expert interviews for evaluating market opportunities and risks.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -105,40 +105,42 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'PyTorch, TensorFlow, scikit-learn'
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Machine Learning
+        description: 'Deep Learning, Reinforcement Learning'
+        percent: 85
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
+      - name: Robotics
+        description: 'ROS, Motion Planning'
+        percent: 80
+        icon: robot
+  - name: Software & Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Skiing
+      - name: Git
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 85
+        icon: git
+      - name: Linux
         description: ''
         percent: 80
-        icon: camera
+        icon: linux
+      - name: Data Analysis
+        description: 'Pandas, SQL, Spark'
+        percent: 90
+        icon: chart-bar
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: English
+    percent: 95
+  - name: Spanish
+    percent: 25
+  - name: ASL
     percent: 25
 
 # Awards.
@@ -146,36 +148,32 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: First Place, Best Poster
+    date: '2022'
+    awarder: Susquehanna Valley Undergraduate Research Symposium
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded for the research poster on "Facial Nerve Paralysis Severity Grading by Computer Vision and Machine Learning"
+  - title: Pi Mu Epsilon Member
+    url: https://pme-math.org/
+    date: '2022'
+    awarder: National Honorary Mathematics Society
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Inducted into Pi Mu Epsilon National Honorary Mathematics Society for excellence in mathematics
+  - title: Dean's List
+    date: '2019-2023'
+    awarder: Bucknell University
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Consistently maintained academic excellence throughout undergraduate studies
+
+
 ---
 
 ## About Me
 
-Hi! I am Bingnan Huo (霍秉楠), a masters student at Brown University. 
-I am a part of the [Intelligent Robotics Lab](http://irl.cs.brown.edu/), led by [Prof. George Konidaris](https://cs.brown.edu/people/gdk/), which conducts research on reinforcement learning, planning, and robotics.
-I am interested in building AI systems that learn and solve complex tasks in the real world, with reinforcement learning and robotics
-My research interests include artificla intelligence, reinforcement learning, and robotics.  I am passionate about using technology to solve real-world problems and improve people's lives.
+## About Me
+
+Hi! I am Bingnan Huo (霍秉楠), a masters student in Data Science at Brown University. I am a member of the [Intelligent Robotics Lab](http://irl.cs.brown.edu/), led by [Prof. George Konidaris](https://cs.brown.edu/people/gdk/), where I conduct research on reinforcement learning and robotics. My current work focuses on option generalization under the Hierarchical Reinforcement Learning framework, aiming to develop reusable skills for robotic applications.
+
+I have contributed to multiple research projects, including a paper submitted to ICLR 2025 on learning transferable subgoals, and I'm currently leading a project on applying these concepts to robotic motion planning using the Franka Emika Panda robot. Previously, I worked on medical image processing using computer vision and machine learning at Bucknell University, where I developed a system for diagnosing Facial Nerve Paralysis with over 80% accuracy.
+
+My research interests lie at the intersection of artificial intelligence, reinforcement learning, and robotics, with a particular focus on developing AI systems that can learn and adapt to solve complex real-world tasks. I am passionate about bridging the gap between theoretical advances in AI and practical applications in robotics.
