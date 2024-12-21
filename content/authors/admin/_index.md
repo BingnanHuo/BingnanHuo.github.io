@@ -170,8 +170,6 @@ awards:
 
 ## About Me
 
-## About Me
-
 Hi! I am Bingnan Huo (霍秉楠), a masters student in Data Science at Brown University. I am a member of the [Intelligent Robotics Lab](http://irl.cs.brown.edu/), led by [Prof. George Konidaris](https://cs.brown.edu/people/gdk/), where I conduct research on reinforcement learning and robotics. My current work focuses on option generalization under the Hierarchical Reinforcement Learning framework, aiming to develop reusable skills for robotic applications.
 
 I have contributed to multiple research projects, including a paper submitted to ICLR 2025 on learning transferable subgoals, and I'm currently leading a project on applying these concepts to robotic motion planning using the Franka Emika Panda robot. Previously, I worked on medical image processing using computer vision and machine learning at Bucknell University, where I developed a system for diagnosing Facial Nerve Paralysis with over 80% accuracy.
