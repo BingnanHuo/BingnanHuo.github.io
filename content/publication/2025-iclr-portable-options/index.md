@@ -34,7 +34,7 @@ featured: true
 links:
 - name: Lab
   url: http://irl.cs.brown.edu/
-url_pdf: 'paper.pdf'
+url_pdf: 'publication/2025-iclr-portable-options/paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

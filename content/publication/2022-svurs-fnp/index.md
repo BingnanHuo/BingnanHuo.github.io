@@ -40,8 +40,8 @@ links:
   url: https://www.youtube.com/watch?v=XmrpCGHMlbU
 
 # The URLs below will work once you add the files to your website's static folder
-url_pdf: 'report.pdf'
-url_poster: 'poster.pdf'
+url_pdf: 'publication/2022-svurs-fnp/report.pdf'
+url_poster: 'publication/2022-svurs-fnp/poster.pdf'
 url_video: 'https://www.youtube.com/watch?v=XmrpCGHMlbU'
 url_code: 'https://github.com/BingnanHuo/bp_research'
 url_dataset: ''
