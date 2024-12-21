@@ -32,12 +32,6 @@ featured: true
 links:
 - name: Symposium
   url: https://www.geisinger.org/susquehanna-valley-undergraduate-research-symposium
-- name: Award
-  url: https://www.geisinger.org/susquehanna-valley-undergraduate-research-symposium
-- name: Code
-  url: https://github.com/BingnanHuo/bp_research
-- name: Video Presentation
-  url: https://www.youtube.com/watch?v=XmrpCGHMlbU
 
 # The URLs below will work once you add the files to your website's static folder
 url_pdf: 'publication/2022-svurs-fnp/report.pdf'
