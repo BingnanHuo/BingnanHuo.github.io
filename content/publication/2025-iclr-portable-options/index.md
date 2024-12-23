@@ -35,7 +35,7 @@ links:
 - name: Lab
   url: http://irl.cs.brown.edu/
 url_pdf: 'publication/2025-iclr-portable-options/paper.pdf'
-url_code: ''
+url_code: 'https://github.com/AnitadeMelloKoch/portable_options'
 url_dataset: ''
 url_poster: ''
 url_project: ''

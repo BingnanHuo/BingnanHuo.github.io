@@ -35,7 +35,7 @@ links:
 - name: Lab
   url: http://irl.cs.brown.edu/
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/BingnanHuo/portable_options_robot'
 url_dataset: ''
 url_poster: ''
 url_project: ''
